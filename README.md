@@ -63,7 +63,7 @@
    
  <h2>Imagem</h2>
 <p align="center">
-    <img src="AQUI" alt="Circuito Completo" />
+    <img src="https://github.com/MarianaBarretto/Projeto-Final-EmbarcaTech/blob/main/Imagem/Circuito%20Completo.jpg" alt="Circuito Completo" />
 </p>
 
 <h3>Vídeo de Demostração</h3>

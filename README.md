@@ -70,7 +70,4 @@
 <p>Google Drive: https://drive.google.com/file/d/1q6poX7Lsi-FKz9LFSryedhb0u-zUus99/view?usp=sharing</p>
 <p>YouTube: https://youtu.be/vhKtg6NUxIk</p>
 
-<h3>Relatório do Projeto</h3>
-<p>Google Drive: AQUI</p>
-
 <h4>Autor: <strong>Mariana Barretto</strong></h4>
